@@ -1,0 +1,11 @@
+Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
+		
+* Variables - Variables are boxes that hold values that can be used throughout a program. 
+
+* Strings - Strings hold text values that are between quotations. 
+
+* Functions (arguments, `return`) A function is a block of code that runs and returns the value after it runs. When  you   use a function somewhere in the code, you send arguements which are the values that you give the function to    be used, and then it returns the output from those inputs.
+ 
+*`if` statements - If is a test statement that determines whether an expression is true , and if it is then it 	  executes the following block of code. 
+
+* Boolean values (`true`, `false`) Boolean is whether something is true or false, also an equivalent to 1 or a 0 in     computer code. You can check if values are equal to other values.
